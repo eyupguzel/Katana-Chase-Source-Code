@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 546b9c56ab7ef4043a89312226e51e8a, type: 3}
+  m_Name: SpecialAttackData
+  m_EditorClassIdentifier: 
+  damage: 20
+  hitVfx: {fileID: 3146453962810647359, guid: fe33e460adbb68e488101dd2c523f3c7, type: 3}
+  hitSfx: {fileID: 8300000, guid: d923efbe4fc22f6478ae18ddc7bc3391, type: 3}
+  attackSfx: {fileID: 8300000, guid: a4d7ba9aab828974386603f66ae5b75b, type: 3}

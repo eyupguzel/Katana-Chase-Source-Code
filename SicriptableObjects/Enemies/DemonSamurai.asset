@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c61922e7725f2674e8c8bd3fa3ac32f0, type: 3}
+  m_Name: DemonSamurai
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 0}
+  attackSfx: {fileID: 8300000, guid: b6aeda47fe37df143a5899abcd45ef30, type: 3}
+  maxHealth: 400
+  moveSpeed: 4
+  attackSpeed: 4
+  attackDamage: 30
+  attackRange: 0
+  attackCooldown: 0.75
+  detectionRange: 15

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c61922e7725f2674e8c8bd3fa3ac32f0, type: 3}
+  m_Name: ArcherGladiator
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 4440630894032830933, guid: 201b5fb1d9d0fd74c90b3b90741dddf6, type: 3}
+  attackSfx: {fileID: 8300000, guid: 694ebc20de6b3e843837a201c27c4659, type: 3}
+  maxHealth: 20
+  moveSpeed: 1
+  attackSpeed: 2
+  attackDamage: 10
+  attackRange: 1
+  attackCooldown: 2.2
+  detectionRange: 15
